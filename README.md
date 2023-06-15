@@ -2,4 +2,4 @@
 
 ##
 
-Just an print("hello world") on assembly
+Just a print("hello world") on assembly
