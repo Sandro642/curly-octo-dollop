@@ -1,5 +1,3 @@
 # hello-world
-
 ##
-
-Just a print("hello world") on assembly
+Just a print("hello world") in assembly
